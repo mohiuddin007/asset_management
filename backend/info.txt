@@ -1,0 +1,13 @@
+/**
+ * @author [Anas]
+ * @email [anas@uxd.co.jp]
+ * @create date 2021-10-26 00:12:59
+ * @modify date 2021-10-26 07:53:27
+ * @desc [description]
+ */
+API
+
+>>activity>>3
+>>admin>>14
+>>assets>>5
+>>users>>6

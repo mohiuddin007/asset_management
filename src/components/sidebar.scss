@@ -1,0 +1,29 @@
+$sidebar-bg-color: #c6d3f3 !important;
+$sidebar-color: #1b1b1b !default;
+
+@import '~react-pro-sidebar/dist/scss/styles.scss';
+
+
+.dropdown_btn {
+    background: #1D1D1D;
+    border: 1px solid #1D1D1D;
+    color: #fff;
+
+}
+.newAdminBtn {
+    background: #1D1D1D;
+    border: 1px solid #1D1D1D;
+    color: #fff;
+    border-radius: 10px;
+    // width: 80%;
+    text-align: center;
+}
+
+.dropdown-menu {
+    left: 20%;
+}
+
+.pro-sidebar.collapsed {
+    width: 96px;
+    min-width: 60%;
+}
